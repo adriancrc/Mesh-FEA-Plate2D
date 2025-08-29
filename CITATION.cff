@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Mesh-FEA-Plate2D: Interactive MATLAB App for Meshing Importance in FEA"
+authors:
+  - family-names: Quesada Martínez
+    given-names: Adrián José
+    orcid: "0000-0002-5975-4195"
+version: "1.0.0"
+date-released: "2025-08-29"
+license: MIT
+repository-code: "https://github.com/adriancrc/Mesh-FEA-Plate2D"
+url: "https://la.mathworks.com/matlabcentral/fileexchange/181854-mesh-fea-plate2d"
+keywords:
+  - MATLAB
+  - Numerical Methods
+  - FEA
+  - Finite Elements
+  - Meshing
+  - Education
+  - Structural Analysis
